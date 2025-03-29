@@ -1,6 +1,8 @@
 import os
 from time import sleep
 
+# Alunos: Uanderson Souza e Tailon Vasconcelos
+
 os.system("cls || clear")
 
 valor_credito = 0
